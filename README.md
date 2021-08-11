@@ -1,3 +1,3 @@
 # Cplusplus-basic
 Basic C++ sketches
-Lorem Ipsum
+Some of the content in portuguese (pt-br)
